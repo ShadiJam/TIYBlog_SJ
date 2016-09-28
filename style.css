@@ -1,0 +1,68 @@
+﻿.downtown {
+    height: 325px;
+    overflow: hidden;
+}
+ img.downtown {
+    width: 100%;
+    border: 2px solid black;
+}
+
+div.logo img {
+    position: relative;
+    border-radius: 60%;
+    height: 90px;
+    top: -50px;
+    left: 140px;
+    border: 5px solid white;
+    margin-bottom: -5%;
+}
+div.column1 {
+    margin-left: 140px;
+            }
+
+ div h4 {
+    margin-bottom: -2%;
+    overflow: hidden;
+    font-size: 17px; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #55565E;
+}
+ div.updates {
+    margin-top: 4%;
+    color: #a8a9b3;
+}
+div.updates p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #a8a9b3;
+}
+div.search {
+    margin-top: 40px;
+	color: #a8a9b3;
+    font-weight: bold; 
+}
+
+form#search {
+    margin-top: 30px;
+}
+form#search input {
+    box-shadow: -.5px -.5px #d8d9df;
+}
+ .column2 {
+    float: left;
+    overflow: hidden;
+    margin-top: -150px;
+    margin-left: 240px;
+ }
+ div.column2 p {
+     margin-left: 30px;
+     font-size: 30px;
+     color: black;
+     font-weight: bold;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+p.Dorton {
+    font-size: 8px;
+    font-style:italic;
+}
+
